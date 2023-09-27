@@ -100,6 +100,16 @@
             "titulo": "Front-end Developer",
             "fecha": "Feb 2020 - Feb 2021",
             "img": "./Public/images/Img_diploma.jfif"
+        },
+        {
+            "titulo": "Front-end Developer2",
+            "fecha": "Feb 2020 - Feb 2021",
+            "img": "./Public/images/Img_diploma.jfif"
+        },
+        {
+            "titulo": "Front-end Developer3",
+            "fecha": "Feb 2020 - Feb 2021",
+            "img": "./Public/images/Img_diploma.jfif"
         }
     ]
 }
