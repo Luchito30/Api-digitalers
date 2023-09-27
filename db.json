@@ -1,0 +1,105 @@
+{    
+    "Perfil":{ 
+        "nombre": "Nombre",
+        "profeccion": "Front-end developer",
+        "mail": "ejemplo@mail.com",
+        "tel": "+54 9 11-1234-5678",
+        "descipcion": "Self-motivated developer, who is willing to learn and create outstanding UI applications.",
+        "avatar":"./Public/images/Img_perfil.jfif"
+    },
+    "skills":[
+        {
+            "titulo":"HTML",
+            "Progreso": 90
+        },
+        {
+            "titulo":"CSS",
+            "Progreso": 80
+        },
+        {
+            "titulo":"JS",
+            "Progreso": 90
+        },
+        {
+            "titulo":"React",
+            "Progreso": 80
+        }
+    ],
+    "proyecto":{
+        "responsive":[
+            {
+                "etiqueta": "#HTML #CSS #responsive",
+                "titulo": "Responsivo",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            },
+            {
+                "etiqueta": "#HTML #CSS #responsive",
+                "titulo": "Responsivo2",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            },
+            {
+                "etiqueta": "#HTML #CSS #responsive",
+                "titulo": "Responsivo3",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            },
+            {
+                "etiqueta": "#HTML #CSS #responsive",
+                "titulo": "Responsivo4",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            }
+        ],
+        "javascript":[
+            {
+                "etiqueta": "#HTML #CSS #javaScript",
+                "titulo": "javaScript",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            },
+            {
+                "etiqueta": "#HTML #CSS #javaScript",
+                "titulo": "javaScript2",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            }
+        ],
+        "React":[
+            {
+                "etiqueta": "#HTML #CSS #React",
+                "titulo": "React",
+                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "img":"./Public/images/Img_proyecto.png"
+            }
+        ]
+    },
+    "experiencia":[
+        {
+            "titulo": "Front-end Developer",
+            "fecha": "Feb 2022 - Actualidad",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
+            "img": "./Public/images/Img_adidas.png"
+        },
+        {
+            "titulo": "Front-end Developer2",
+            "fecha": "Feb 2022 - Actualidad",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
+            "img": "./Public/images/Img_adidas.png"
+        },
+        {
+            "titulo": "Front-end Developer3",
+            "fecha": "Feb 2022 - Actualidad",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
+            "img": "./Public/images/Img_adidas.png"
+        }
+    ],
+    "certificado":[
+        {
+            "titulo": "Front-end Developer",
+            "fecha": "Feb 2020 - Feb 2021",
+            "img": "./Public/images/Img_diploma.jfif"
+        }
+    ]
+}
