@@ -65,14 +65,14 @@
                 "id":1,
                 "etiqueta": "#HTML #CSS #javaScript",
                 "titulo": "javaScript",
-                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "descripcion": "In this project, I work with HTML and CSS to create a javaScript page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                 "img":"src/assets/img/Img_proyecto.png"
             },
             {
                 "id":2,
                 "etiqueta": "#HTML #CSS #javaScript",
                 "titulo": "javaScript-2",
-                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "descripcion": "In this project, I work with HTML and CSS to create a javaScript page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                 "img":"src/assets/img/Img_proyecto.png"
             }
         ],
@@ -81,7 +81,7 @@
                 "id":1,
                 "etiqueta": "#HTML #CSS #React",
                 "titulo": "React",
-                "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+                "descripcion": "In this project, I work with HTML and CSS to create a React page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                 "img":"src/assets/img/Img_proyecto.png"
             }
         ]
