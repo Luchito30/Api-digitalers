@@ -5,7 +5,7 @@
         "mail": "ejemplo@mail.com",
         "tel": "+54 9 11-1234-5678",
         "descipcion": "Self-motivated developer, who is willing to learn and create outstanding UI applications.",
-        "avatar":"../assets/img/Img_perfil.jfif"
+        "avatar":"../assets/img/Img_perfil.jpg"
     },
     "skills":[
         {   
@@ -114,19 +114,19 @@
             "id":1,
             "titulo": "Front-end Developer",
             "fecha": "Feb 2020 - Feb 2021",
-            "img": "../assets/img/Img_diploma.jfif"
+            "img": "../assets/img/Img_diploma.jpg"
         },
         {
             "id":2,
             "titulo": "Front-end Developer2",
             "fecha": "Feb 2020 - Feb 2021",
-            "img": "../assets/img/Img_diploma.jfif"
+            "img": "../assets/img/Img_diploma.jpg"
         },
         {
             "id":3,
             "titulo": "Front-end Developer3",
             "fecha": "Feb 2020 - Feb 2021",
-            "img": "../assets/img/Img_diploma.jfif"
+            "img": "../assets/img/Img_diploma.jpg"
         }
     ]
 }
